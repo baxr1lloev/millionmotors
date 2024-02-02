@@ -63,11 +63,11 @@ export default function Home():any {
 
           
             <motion.div
-              variants={fadeIn("left", 0.8)}
+              variants={fadeIn("left", 0.6)}
               initial="hidden"
               whileInView={"show"}
-              viewport={{ once: false, amount: 0.8 }}
-              className="w-full mt-[30px] flex justify-center items-center h-[50px] "
+              viewport={{ once: false, amount: 0.6 }}
+              className="w-full mt-[30px] flex justify-center items-center h-[20px] "
             >
               <ImTelegram className="telega" style={{ color: "blue" }} />
 
@@ -78,7 +78,7 @@ export default function Home():any {
             </motion.div>
         
         </div>
-        <div className="w-[220px] pl-[10px]  ">
+        <div className="w-[60%] pl-[10px]  ">
           <div className="flex items-center justify-between">
             <FaPhone style={{ color: "green" }} />
             <p className="text-white pr-[7px] text-[20px] font-bold ">
