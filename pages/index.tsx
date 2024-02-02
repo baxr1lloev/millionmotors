@@ -8,7 +8,7 @@ import { FaPhone } from "react-icons/fa6";
 import { FiInstagram } from "react-icons/fi";
 
 
-export default function Home() {
+export default function Home():any {
   return (
     <>
       <Head>
