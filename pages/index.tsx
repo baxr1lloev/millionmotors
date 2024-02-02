@@ -78,22 +78,22 @@ export default function Home():any {
             </motion.div>
         
         </div>
-        <div className="w-[70%] pl-[10px]  ">
+        <div className="w-[65%] pl-[10px]  ">
           <div className="flex items-center justify-between">
             <FaPhone style={{ color: "green" }} />
-            <p className="text-white pr-[7px] text-[20px] font-bold ">
+            <p className="text-white pr-[16px] text-[20px] font-bold ">
               <a href="tel:+99880265555">+998 88 026-55-55</a>
             </p>
           </div>
           <div className="flex items-center justify-between">
             <FaPhone style={{ color: "green" }} />
-            <p className="text-white pr-[7px] text-[20px] font-bold ">
+            <p className="text-white pr-[16px] text-[20px] font-bold ">
               <a href="tel:+998880285555">+998 88 028-55-55 </a>
             </p>
           </div>
           <div className="flex items-center justify-between">
             <FaPhone style={{ color: "green" }} />
-            <p className="text-white pr-[7px] text-[20px] font-bold ">
+            <p className="text-white pr-[16px] text-[20px] font-bold ">
               <a href="tel:+99880295555">+998 88 029-55-55 </a>
             </p>
           </div>
