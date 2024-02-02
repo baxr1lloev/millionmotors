@@ -78,7 +78,7 @@ export default function Home():any {
             </motion.div>
         
         </div>
-        <div className="w-[60%] pl-[10px]  ">
+        <div className="w-full pl-[10px]  ">
           <div className="flex items-center justify-between">
             <FaPhone style={{ color: "green" }} />
             <p className="text-white pr-[7px] text-[20px] font-bold ">
