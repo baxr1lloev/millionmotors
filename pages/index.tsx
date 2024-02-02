@@ -1,8 +1,4 @@
 import Head from "next/head";
-import { Inter } from "next/font/google";
-import Image from "next/image";
-import { TbWorld } from "react-icons/tb";
-import Items from "@/Components/Items";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 import { TypeAnimation } from "react-type-animation";
@@ -11,7 +7,6 @@ import { FaPhone } from "react-icons/fa6";
 
 import { FiInstagram } from "react-icons/fi";
 
-const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
