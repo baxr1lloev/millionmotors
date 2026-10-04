@@ -2,7 +2,7 @@
 
 # Million Motors
 
-**Landing page for a car and EV dealership in Tashkent**
+**Landing page for a car and EV dealership in Uzbekistan**
 
 [![Live](https://img.shields.io/badge/Live-millionmotors.vercel.app-b91c1c?style=for-the-badge)](https://millionmotors.vercel.app)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
@@ -15,8 +15,7 @@
 </div>
 
 A one-screen landing for a real dealership: animated headline with the dealer's key offers,
-links to Instagram and Telegram, and tap-to-call phone numbers. Built to load fast on phones,
-where most of the dealer's customers come from.
+links to Instagram and Telegram, and tap-to-call phone numbers.
 
 - Typing animation for the offers (`react-type-animation`)
 - Entrance animations with Framer Motion variants
